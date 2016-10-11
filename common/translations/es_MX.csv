@@ -1,0 +1,456 @@
+Please select a valid content type;Favor de seleccionar un tipo de contenido válido
+Please select a valid Social Network;Favor de seleccionar una Red Social válida
+Please enter a valid opportunity name;Favor de ingresar un nombre de Oportunidad válido
+You have already created an opportunity with that name;Ya creaste una Oportunidad con el mismo nombre
+Please select the type of opportunity (open/direct);Favor de seleccionar el tipo de Oportunidad
+Please enter a valid maximum offer;Favor de ingresar un máximo de oferta válido
+Please enter a valid description;Favor de escribir la descripción de la Oportunidad
+Please enter valid requirements;Favor de escribir los requerimientos de la Oportunidad
+Please describe a valid candidate;Favor de describir el candidato ideal
+A valid link value is required;Es necesario escribir una liga válida
+A valid hashtag value is required;Es necesario escribir un hashtag válido
+A valid mention value is required;Es necesario escribir un nombre de mención válido
+The start date is invalid;La fecha de inicio no es correcta
+The link url is invalid;El URL no es correcto
+You must choose a combination of verticals for the opportunity to be targeted;Debes de seleccionar una combinación de intereses verticales para segmentar la Oportunidad
+The postcode entered is invalid;El Código Postal no es correcto
+Please complete each step;Favor de completar todos los pasos
+Opportunity created successfully;Oportunidad creada con éxito
+Please enter a valid budget amount;Favor de ingresar una cantidad de presupuesto válido
+Please specify a unique campaign name;Favor de especificar un nombre de oportunidad único
+You haven't met the minimum amount required to start a campaign;No has alcanzado el monto mínimo requerido para iniciar una campaña
+You cannot create a campaign with more funds then you have available;No puedes lanzar una Oportunidad con un presupuesto mayor al balance de tu monedero
+Your chosen RFC is invalid;Tu RFC ingresado es incorrecto
+The paypal email is not valid;El mail de PayPal ingresado es incorrecto
+Please enter a valid withdrawal amount;Favor de ingresar una cantidad ha retirar correcta
+You cannot withdraw more than your current balance;No puedes retirar una cantidad mayor al balance que tienes en tu monedero
+You cannot withdraw less than $%amount%;No puedes retirar dinero con un balance menor a $%amount% en tu monedero con tu Plan actual
+Please enter a valid monetary amount for depositing;Favor de ingresar un monto válido a depositar 
+The minimum depositable amount is $%amount%;La cantidad mínima ha depositar es de $%amount%
+The maximum depositable amount is $%amount%;La cantidad máxima posible ha depositar es de $%amount% en caso de querer depositar más favor de contactar al equipo BrandMe
+Configuration updated successfully;Configuración actualizada con éxito
+$%amount% USD will be transferred to your configured PayPal account;$%amount% USD se ha retirado y transferido a tu cuenta de PayPal configurada
+Your updated account balance is $%amount% USD;El nuevo balance de tu monedero es de $%amount% USD
+Email is a required field;El correo electrónico es obligatorio
+The email is not valid;El correo no es válido
+The password is not valid;La contraseña no es válida
+The email is already registered by another user;El correo electrónico ya ha sido registrado por otro usuario, probablemente es tu gemelo malvado.
+Please enter a valid telephone number;Favor de ingresar un teléfono válido
+The postcode is incorrect;El código postal es incorrecto
+Please use a valid street name;Favor de ingresar un nombre de calle correcto
+Please use a valid internal street number;Favor de ingresar un número interior correcto
+Please use a valid external street number;Favor de ingresar un número exterior correcto
+Please enter a valid street reference;Favor de ingresar una referencia de manera correcta
+Your current password is incorrect;La contraseña ingresada es incorrecta
+Your passwords do not match please confirm your password again;Tus contraseñas no coinciden favor de intentar de nuevo
+Configuration updated successfully;Configuración actualizada con éxito
+Invalid plan specified;El plan no es válido
+Please choose a plan different to your current one;Favor de seleccionar un plan distino al que tienes actualmente
+New plan chosen successfully;Nuevo plan seleccionado de manera exitosa
+%s is not an acceptable image format;%s tiene un formato de imagen que no aceptamos
+%s is larger than the maximum file size of 3 MB;%s tiene un tamaño mayor al límite de 3 MB
+Please upload an %s image with a higher resolution;Favor de subir una %s imagen con mayor resolución
+A valid name should be at least 2 letters long;Un nombre válido debe de tener mínimo 2 letras
+A valid surname should be at least 2 characters long;Un apellido válido debe de tener mínimo 2 letras
+A valid brand name should be at least 2 characters long;Una marca válida debe de tener mínimo 2 caracteres
+A bio cannot be longer that 500 characters;Una biografía no puede ser mayor a 500 caractéres
+The date of birth is invalid;La fecha de nacimiento es inválida
+Please complete your information carefully;Favor de completar tu información de manera detallada
+Account updated successfully;Cuenta actualizada con éxito
+$%f has been transferred to your configured PayPal account.;$%f ha sido retirado y transferido a tu cuenta PayPal configurada
+"Valid tags contain only letters and dashes and are separated by commas;Las etiquetas válidas únicamente contienen guiones , letras y están separadas por comas"
+Please only enter valid monetary amounts for negotiating starting prices;Favor de ingresar una cantidad válida para el precio inicial de negociación 
+For negotiating amounts over $1000 USD please contact the BrandMe team;Para negociaciones arriba de $1000 USD favor de contactar al equipo de BrandMe
+The minimum negotiating amount is $1 USD;El monto mínimo para negociar es de $1.00 USD
+Invalid filter;Filtro inválido
+Invalid timezone;Zona horaria inválida
+Valid tags contain only letters and dashes and are separated by commas;Las etiquetas válidas únicamente contienen guiones letras y están separadas por comas
+It is necessary to select at least one interest in order to participate in a campaign;Es necesario seleccionar al menos un interés para poder participar en las campañas
+Interests updated successfully;Intereses actualizados con éxito
+Please leave us a message;Favor de escribirnos un mensaje
+Thanks for contacting us  we'll be in touch;Gracias por contactarnos nos pondremos en contacto contigo
+You must link at least one social network to register as a creator;Debes de conectar al menos una red social para registrarte como Creador
+There was an error registering your account;Hubo un error al registrar tu cuenta
+A link to reset your password has been sent to your email;Un link para generar una nueva contraseña se ha enviado a tu mail
+Forgot your password?;¿Olvidaste tu contraseña?
+Enter your email to reset your password;Ingrese su correo para restablecer su contraseña
+Your email is a required field;Tu correo es obligatorio
+Invalid email/password;Contraseña o mail incorrectos
+Create Campaign;Crear nueva Campaña
+Budget;Presupuesto
+Campaign Name;Nombre de la Campaña
+Create Campaign;Crear Campaña
+Opportunity Name;Nombre de la Oportunidad
+Budget;Presupuesto
+Create Opportunity;Crear Oportunidad
+Financial;Finanzas
+Deposit;Depositar
+Deposit Amount;Cantidad a Depositar
+Deposit;Depositar
+Withdraw;Retirar
+Withdrawal Amount;Cantidad a retirar
+Withdraw;Retirar
+Save your PayPal Account to withdraw;Guarda tu cuenta PayPal para retirar
+Add PayPal Account;Agregar cuenta PayPal
+Configuration;Configuración
+Telephone Number;Teléfono
+It's mandatory to save and validate you phone number before making any financial movments;Es obligatorio guardar y validar tu celular antes de hacer cualquier movimiento financiero
+Address;Dirección
+PayPal/RFC;PayPal/RFC
+PayPal Account Email;Email de PayPal
+RFC / Tax Payer Id;RFC / Tax Payer ID
+Save;Guardar
+Content Type;Tipo de Contenido
+Social Network;Red Social
+Indications;Indicaciones
+Segmentation;Segmentación
+Create Opportunity;Crear Oportunidad
+Social Network;Red Social
+Last Step;Paso Anterior
+Next Step;Siguiente Paso
+Segment Content Creator;Segmenta al Creador de Contenido
+Statistics;Estadísticas
+Followers;Seguidores
+Following;Siguiendo
+Location;Localización
+Country;País
+Postcode;Código Postal
+State;Estado
+Gender;Género
+Male;Hombre
+Female;Mujer
+Age Range;Rango de Edad
+Less than 17;Menos de 17
+Content Type;Tipo de Contenido
+Status Update;Status Update
+Foto;Foto
+Blog Post;Blog Post
+Video;Video
+System;Sistema
+Your email;Email
+Content Filter;Filtro de Contenido
+Time Zone;Zona Horaria
+Permit BrandMe Support;Permitir soporte del equipo BrandMe
+Save;Guardar
+Contact;Contacto
+Telephone;Teléfono
+Postcode (required);Código Postal (obligatorio)
+Street;Calle
+Internal Number;Número interior
+External Number;Número exterior
+Reference;Referenciados
+Save;Guardar
+Password;Contraseña
+Current Password;Contraseña actual
+New Password;Nueva contraseña
+Confirm New Password;Confirma nueva contraseña
+Save;Guardar
+Configure Account;Configurar Cuenta
+Personal Information;Información Personal
+First Name;Nombre
+Last Name;Apellido
+Gender;Género
+Day;Dia
+Month;Mes
+Year;Año
+Save;Guardar
+Change Avatar;Cambiar Avatar
+Save;Guardar
+Choose a Plan;Selecciona un Plan
+Free;Gratuito
+Pro;Pro
+Team;Team
+Enterprise;Enterprise
+Reference Link;Link de Referencia
+Referenced;Referenciados
+Your profile is incomplete click here to complete your profile;Tu perfil esta incompleto da clic aquí para completarlo
+You have no networks connected;No tienes redes conectadas
+Please complete your information for this account in order to be included in campaigns;Favor de completar la información de esta cuenta para que sea considerada en las Oportunidades
+Financial;Finanzas
+Deposit;Depositar
+Deposit Amount;Cantidad a Depositar
+Deposit;Depositar
+Withdraw Money;Retirar Dinero
+Withdrawal Amount;Cantidad a Retirar
+Withdraw;Retirar
+Save your PayPal Account to withdraw;Guarda tu cuenta PayPal para retirar
+Add PayPal Account;Agregar cuenta PayPal
+Configuration;Configuración
+Telephone Number;Teléfono
+Address;Dirección
+PayPal/RFC;PayPal/RFC
+PayPal Account Email;Email de PayPal
+RFC / Tax Payer Id;RFC / Tax Payer ID
+Save;Guardar
+You have no networks connected;No tienes redes conectadas
+Save;Guardar
+Please complete your information for this account in order to be included in campaigns;Favor de completar la información de esta cuenta para que sea considerada en las Oportunidades
+Topics;Tópicos
+Segment your audience;Segmenta tu Audiencia
+Family;Familia
+Education;Educación
+Annual Income;Ingresos Anuales
+Language;Lenguaje
+Initial Price;Precio inicial
+Price;Precio
+Your Email;Email
+Personalized Link;Link Personalizado
+begins with http://brandme.la/perfil/;Empieza en http://brandme.la/perfil/
+Content Filter;Filtro de Contenido
+Time Zone;Zona Horaria
+Save;Guardar
+Contact;Contacto
+Telephone;Teléfono
+Postcode (required);Código Postal (obligatorio)
+Street;Calle
+Save;Guardar
+Balanza;Balance
+Financial;Finanzas
+Desktop;Escritorio
+Profile;Perfil
+Balance;Balance
+Close Session;Cerrar Sesión
+followers;Seguidores
+statistics_followers;Estadáticas Seguidores
+following;Siguiendo
+statistics_following;Estadáticas Siguiendo
+country;País
+postcode;Código Postal
+life;Vida
+language;Idioma
+interests;Intereses
+income;Ingresos
+gender;Sexo
+education;Educación
+age;Edad
+state;Estado
+location_state;Estado
+status_update;Status Update
+twitter;Twitter
+facebook;Facebook
+mexico;México
+man;Hombre
+woman;Mujer
+opportunity_name;Nombre de Oportunidad
+type;Tipo
+max_offer;Oferta Maxima
+about_opportunity;Acerca de la Oportunidad
+requirements;Requerimientos
+ideal_candidate;Candidato Ideal
+edit;Editar
+yes;Si
+no;No
+Dispatch At; Enviar @
+hashtag_required;Hashtag Obligatorio
+hashtag;Hashtag
+Enter a price;Ingresa un precio
+Connected;Conectado
+image_logo;Logo
+Thanks for registering;Gracias por registrarte
+Please check your email for a confirmation link to activate your account;Hemos enviado un correo de activacion a tu correo electrónico
+Thanks for confirming;Has confirmado tu cuenta con éxito
+Invalid confirmation key.;Llave de confirmación inválida o caducada
+Campaigns;Campañas
+Create New Campaign;Crear Campaña Nueva
+You have not registered any campaigns;No has registrado ninguna campaña
+You have not registered any opportunities;No has registrado ninguna oportunidad
+The specified campaign does not exist;La campaña especificada no existe
+View Opportunities;Ver Oportunidades
+Opportunity Paused;La Oportunidad ha estado detenida
+Invalid Opportunity;Oportunidad Inválida
+Executing Opportunity;Oportunidad Ejecutándose
+Opportunity Finished;Oportunidad Terminada
+Opportunity Rejected;Oportunidad Rechazada
+Opportunity Accepted;Oportunidad Aceptada
+Resume;Reactivar
+Pause;Detener
+Please select a password between 8 and 15 characters excluding white space. The password must also contain at least a letter and one digit.;Favor de usar una contraseña mas fuerte  incluyendo por lo menos una letra y un digito.
+Email already confirmed or not registered;El correo ha sido confirmado previamente o no esta registrado
+A confirmation email already been sent please check your inbox;El correo de confirmacion ha sido reenviado favor de revisar tu bandeja de entrada.
+Resent confirmation email;El correo de confirmacion ha sido reenviado
+The email entered is not valid;El correo no es válido
+Please contact Brandme for assistence;Ponte en contacto con Brandme para restablecer tu contraseña
+Invalid confirmation key;Llave de confirmacion inválida
+Recover Password;Recuperar Contraseña
+Resend email confirmation;Reenviar correo de confirmacion
+You need to confirm your account first;Es necesario primero confirmar tu cuenta
+Sign Up;Regítrate
+Login;Iniciar sesión
+You must link at least one social network to register as a creator;Es necesario conectar al menos una red social para poder continuar
+mention_required;Menció Obligatoria
+start_opportunity;Fecha y Hora de Inicio
+You must be at least 18 years old to participate in BrandMe;Debes tener al menos 18 años para participar en BrandMe
+Improve your segmentation to be included in open bid campaigns;Mejora tu segmentación para poder participar en campañas abiertas
+You have no active campaigns;No tienes campañas activas
+You have not created any opportunities for this campaign;No has creado oportunidades para esta campaña
+You have no PayPal account associated with BrandMe;No tienes una cuenta de PayPal asociada con BrandMe
+You you must enter a valid email associated with your PayPal account;Favor de usar una dirección de correo electrónico válida asociada con su cuenta PayPal
+Configuration updated successfully;Configuración actualizada correctamente
+Select an option;Selecciona una opción
+Your opportunity requires more segmentation in order to be properly targeted at content creators.;Se requiere más segmentación con el fin de ser dirigido correctamente a los creadores de contenido.
+Your bid has been sent;Tu oferta ha sido enviada
+Bid counter suggestion sent;Sugerencia enviada
+Please suggest an amount lower than the actual bid;Favor de sugerir una cantidad menor a la oferta actual
+Your bid suggestion could not be sent;No se ha podido enviar tu sugerencia
+Could not bid;No se pudo enviar tu oferta
+You cannot bid higher than your original bid;No se puede ofertar más que su oferta original
+You cannot suggest an amount larger than the maximum bid defined for this opportunity;No se puede sugerir una cantidad mayor que la oferta máxima definida por esta oportunidad
+Please enter a valid bid amount;Favor de ingresar una cantidad válida
+Participation bid approved;Oferta aprobada
+Pending Content;En espera de contenido
+Pending Revised Content;Revisión de contenido en espera
+Pending Bid;Oferta pendiente
+Your content has been sent for review;Tu contenido ha sido enviado para revisión
+Could not submit your content;No se ha podido enviar tu contenido
+Your content must contain the required mention;El contenido debe contener la mención obligatoria
+Your content must contain the required hashtag;El contenido debe contener el hashtag obligatorio
+Your content must contain the required website link;El contenido debe contener la liga requerido
+The character limit for twitter is;El límite de caracteres de Twitter es
+The negotiation has been complete;La negociación ha sido completada
+Your bid must be approved before you can negotiate content;Tu oferta tiene que estar aprobada antes de negociar el contenido
+The creator has sent you content to review;El creador te ha enviado el contenido para revisar
+The creator has sent you a bid;El creador te ha enviado una oferta
+Your suggestion has been sent;Tu sugerencia ha sido enviada
+Your suggestion has not been sent;Tu sugerencia no ha sido enviado
+Please enter a valid response or content suggestion;Favor de contestar con una sugerencia de contenido váido
+Pending dispatch at;Contenido pendiente de enviar
+Participation Rejected;Participación Rechazada
+Participation Reactivated;Participación Reactivada
+Invalid bid amount;Tu oferta es inválida
+Your bid is higher than the maximum permitted bid;Tu oferta es mayor que la oferta máxima permitida
+Please enter your bid;Introduzca tu oferta correctamente
+Participation Content Approved;Contenido Aprobado
+You cannot program a message to dispatch more than 30 days from now;No se puede programar un mensaje para publicar en más de 30 días a partir de ahora
+Invalid Participation Content;Contenido inválido
+Pending Counter Bid;Pendiente de contraoferta
+Please contact BrandMe for assistence;Favor de contactar a BrandMe para asistencia
+A link to reset your password has been sent to your email;Hemos enviado un enlace a tu correo para recuperar tu contraseña
+You must be at least 21 years old to participate in BrandMe;Debes tener al menos 21 años para participar
+Please select a valid country;Favor de elegir un país válido
+One or more connected networks have not been %segmented%;Al menos una red conectada no está %segmented%
+Your profile is %incomplete%, complete it to receive offers;Tu perfil está %incomplete%
+An image is required in order to impulse your opportunity correctly;Favor de subir una imagen con el fin de impulsar la oportunidad correctamente
+location_country;País
+You may only choose up to 5 interests;Sólo puedes selecionar hasta 5 intereses por cuenta
+You may only choose up to 5 language;Sólo puedes selecionar hasta 5 idiomas por cuenta
+You may only choose up to 5 age;Sólo puedes selecionar hasta 5 rangos de edad por cuenta
+You may only choose up to 5 income;Sólo puedes selecionar hasta 5 rangos de ingreso por cuenta
+Networks updated successfully;Cuenta actualizada
+Interests updated successfully;Intereses actualizados
+Demographics updated successfully;Demografía actualizado correctamente
+Your bid has already been approved;Tu oferta ha sido aprobada
+The selected account is invalid;La cuenta selecionada no es válida
+The selected account does not belong to the same network as the opportunity;La cuenta selecionada no pertenece a la misma red social que la oportunidad
+You have already invited this creator to participate;Influenciador invitada previamente
+The opportunity selected is not of type direct invite;La oportunidad seleccionada no es de tipo invitación directa
+The participation cost defined by this influencer is greater than the maximum bid configured for this opportunity;El costo por participación de este influenciador es mayor que la oferta máxima configurada para esta oportunidad
+The campaign which this opportunity belongs to does not have enough credit available to meet the participation cost defined by the influencer;La campaña a la cual pertenece esta oportunidad no tiene suficiente crédito disponible para cubrir el costo de participación definido por el creador
+The influencer has been invited;El creador ha sido invitado
+Your account balance has been updated;El saldo de tu monedero se ha actualizado
+$%amount% USD has been reserved from your balance;$%amount% USD han sido apartados de tu monedero
+You have created a new campaign called ""%campaign%" and the budget has been reserved from your account balance;Has creado una nueva campaña llamada "%campaign%" y el presupuesto ha sido apartado de tu monedero
+You have deposited $%amount% USD to your account balance;Has depositado $%amount% USD a tu monedero
+You have withdrawn $%amount% USD from your account balance to PayPal;Has retirado $%amount% USD a tu cuenta de PayPal
+Deposit from PayPal;Depósito de PayPal
+Withdrawal to PayPal;Retiro a PayPal
+PayPal Email added successfully;Correo de PayPal agregado
+You have no registered transactions;No tienes ninguna transacción registrada
+You don't have enough credit left in this campaign to allow for the maximum bid offer;No has  suficiente saldo asignado a la campaña para acomodar la oferta máxima
+Not specified;No especificado
+The advertiser has suggested you bid $%amount% USD;El anunciante ha sugerido $%amount% USD
+The advertiser has bid $%amount% USD;El anunciante te ha ofertado $%amount% USD
+Your original bid was $%amount% USD;Tu oferta inicial era $%amount% USD
+Your last bid was $%amount% USD;Tu oferta actual es $%amount% USD
+Your bid has already been sent and is awaiting approval;Tu oferta ya se envió y esta en espera da aprobarse
+The bid has already been accepted;La oferta ha sido aceptada previamente
+Your last offer is already pending revision;Tu última oferta esta pendiente de revision
+Invalid Participation;Participación inválida
+Opportunity Resumed;Oportunidad reactivada
+The opportunity could not be resumed;No se pudo reactivar la oportunidad
+You have disconnected your %network% account;Has desconectado tu cuenta de %network%
+You have not referenced anyone yet;No has referenciado a nadie aun
+There is not enough money left in this campaign to approve this bid;No hay suficiente crédito asignado a esta campaña para aprobar la participación
+The participation bid cannot be approved;No se puede aprobar la participación
+This campaign has been paused as all assigned credit has been consumed;Esta campaña ha sido detenido debido a que se ha agotado el crédito asignado
+There is not enough credit left in this campaign to create a new opportunity;La campaña no tiene crédito suficiente asignado para crear una nueva oportunidad
+There is not enough credit left in this campaign to resume the opportunity;La campaña no tiene crédito suficiente asignado para reactivar la oportunidad
+There is not enough credit left to in the campaign to cover the suggested cost;La campaña no tiene crédito suficiente asignado para cubrir la cantidad sugerida
+There is not enough credit left in this campaign to resume the participation;La campaña no tiene crédito suficiente asignado para reactivar la participación
+Stop;Detener
+You can only perform actions on participations if the opportunity is executing;No se puede interactuar con esta partipación ya que la oportunidad no se encuentra ejecutándose
+Invalid campaign opportunity;Oportunidad inválida
+Invalid campaign;Campaña inválida
+Please enter a valid amount;Favor de ingresar una cantidad válida
+The minimum amount you can add to an existing campaign is $%amount%;La cantidad mínima que se debe agregar a una campaña existente es $%amount%
+You cannot transfer more money than you have available in your account to the campaign;No se puede transferir mas crédito que tienes disponible en tu mondero a la campaña
+You cannot transfer more money than you have available in the campaign to your account;No se puede transferir mas crédito que tienes disponible en la campaña a tu monedero
+You do not have the required funds to increase the campaign by $%amount%;No tienes el crédito suficiente en tu monedero para agregar $%amount% a la campaña
+You have reserved $%amount% for the campaign "%campaign%";Has reservado $%amount% para la campaña "%campaign%"
+You have transferred $%amount% from the campaign "%campaign%" to your account;Has transferido $%amount% desde la campaña "%campaign%" a tu monedero
+$%amount% USD has been transferred back to your account balance;$%amount% USD ha sido transferido a tu monedero
+Add campaign credit;Agregar Crédito
+The offer could not be accepted in this moment try again later;No se pudo aprobar la oferta en este momento, favor de intentar más tarde
+Please suggest a higher bid;Favor de sugerir una cantidad mayor
+You will receive your credit in approximately %days% days;Recibirás tu crédito en aproximadamente %days% dias
+PayPal is not responding right now, please try again later;Lo sentimos, PayPal no esta respondiendo en este momento, favor intentar luego
+Invalid Transaction;Transacción Inválida
+The purchase has been aborted;Has cancelado la transacción
+Invalid transaction amount;El monto de la transacción es inválido
+The transaction was not successful;La transacción no se ha realizado exitosamente
+Your payment has been rejected;El pago ha sido rechazado
+Your transaction is pending payment, please check your PayPal account for further information;La transacción esta pendiente de tu pago, favor de revisar tu cuenta de PayPal para más información
+You cannot reactivate a participation in which negotiations have already been completed;No se puede reactivar una participación terminada previamente
+Reset Password;Olvido de contraseña
+Decline;Rechazar
+Bid;Ofertar
+Your balance: $%amount% USD;Balance actual: $%amount% USD
+Campaign Funds $%amount% USD;Fondos de campaña $%amount% USD
+The transfer was not successful;No se pudo transferir fondos
+Invalid campaign name;El nombre de la campaña es inválido
+You have already created a campaign with the same name;Has creado una campaña con el mismo nombre previamente
+You have renamed the campaign successfully;Has editado el nombre de la campaña con éxito
+Setting a base price for negotiating is option, but useful for when Advertisers want to contact you directly. If you want to set a base price it must be greater than $1.00 USD;Indicar un precio base es opción, sirve para cuando los Anunciantes te contactan directo, si deseas agregar un precio base debe de ser mayor a $1.00 USD
+There has been no activity in your account in the last 90 days;No ha habido ninguna actividad en tu cuenta durante los últimos 90 días
+$%amount% USD has been reserved from your balance for this campaign;$%amount% USD de tu monedero ha sido reservado para esta campaña
+civil_state;Estado Civil
+There are no results, try changing your search terms;No se han encontrado resultados para tu búsqueda
+A link to reset your password has been sent to your email;Una liga para restablecer tu contraseña ha sido enviada a tu correo electrónico
+A confirmation email already been sent, please check your inbox;Un correo de confirmación ha sido enviado previamente, favor de revisar tu bandeja de entrada
+Choose a strong password;Elije una contraseña fuerte
+Please select a password between 8 and 15 characters, excluding white space. The password must also contain at least a letter and one digit.;Elija una contraseña entre 8 y 15 caracteres. La contraseña debe contener al menos una letra, un dígito y sin espacios blancos.
+You have added %paypal_email% as your primary PayPal email;Has guardado %paypal_email% como tu correo principal de PayPal
+Your offer for "%opportunity_name%" has been approved;Tu oferta por "%opportunity_name%" ha sido aprobada
+The opportunity %opportunity_name% has been approved and is now active in the marketplace;La oportunidad %opportunity_name% ha sido revisada y aprobada por lo que ya se encuentra en el marketplace
+The opportunity %opportunity_name% has been rejected;La oportunidad %opportunity_name% ha sido rechazada
+There was an error registering your account;Hubo un error al registrar tu cuenta
+An error has occurred linking your account;Hubo un error al ligar tu cuenta
+Network added Successfully;Red agregado con éxito
+This %network% account is not registered with BrandMe;Esta cuenta de %network% not esta registrada con BrandMe
+Your %network% account could not be used to login;No se pudo usar esta cuenta de %network% para ingresar
+This account is no longer linked, please reauthorize it in order to successfully participate in campaigns;Esta cuenta no está vinculada correctamente, favor de conectarla de nuevo
+The network account cannot be linked right now, please try again later;No se puede vincular esta cuenta
+The network account is already linked;La cuenta esta ligada correctamente
+Account reconnected successfully;Cuenta reconectado con éxito
+Your password has been reset successfully;Tu contraseña se ha restablecido con éxito
+Soon you will be able to create campaigns with photos and videos in your favorite social networks and blogs!;Próximamente podrás crear campañas con los 4 tipos de contenido en más de 12 redes sociales, puedes ver el status en brandme.zendesk.com
+family;Familia
+price;Precio
+male;Hombre
+female:Mujer
+The content creator has not created a bio;El creador no ha creado un bio
+The content creator has not personalized this network yet;El creador no ha personalizado esta red aún
+The network account you authenticated with is not the same as the one you are trying to relink;La cuenta que estas conectando es distinta a la ya conectada, favor de dar clic en "Agregar cuenta" para vincular la nueva
+One or more of your networks requires relinking;Cuentas con al menos una red que necesita volver a conectarse, favor de dar clic en "Redes Conectadas" para vincularla
+Please enter at least 3 characters to search;Favor de escribir al menos 3 caracteres para buscar
+Please specify an amount;Favor de especificar una cantidad
+Please a valid email which exists;Favor de especificar un correo valido que existe
+Deposit from BrandMe;Abono de BrandMe
+Reject;Rechazar
+Approve;Aprobar
+Opportunity approved;Oportunidad aprobada
+This opportunity did not meet the BrandMe's standards and/or conditions of use;Esta oportunidad no cumplía con los estándares y los términos de uso de BrandMe.
+You must include a valid rejection motive;Debes incluir un motivo de rechazo válido
+Your rejection message must not exceed 100 characters;Tu motivo de rechazo no debe superar los 100 caracteres
+Rejection motive:;Motivo de rechazo:
+You must relink this account before participating any further in the opportunity;Debes volver a vincular esta cuenta antes de poder seguir participando en la oportunidad
+The specified network account no longer exists;Lo sentimos, esta cuenta no esta disponible
